@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "woia-marketing-audience",
+  "version": "0.5.0",
+  "description": "WOIA Marketing provider for audience research, evidence-backed segmentation, targeting assumptions, and authorized use of shared customer/lead references.",
+  "author": {
+    "name": "Turpial AI Academy",
+    "url": "https://github.com/Turpial-AI-Academy"
+  },
+  "homepage": "https://github.com/Turpial-AI-Academy/woia-marketing-audience-agent-plugin",
+  "repository": "https://github.com/Turpial-AI-Academy/woia-marketing-audience-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "agent-plugin",
+    "woia",
+    "marketing",
+    "marketing-audience"
+  ]
+}
