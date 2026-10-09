@@ -4,7 +4,7 @@ description: Research, define, or review marketing audiences and segments using 
 license: MIT
 metadata:
   author: Turpial AI Academy
-  version: "0.5.1"
+  version: "0.5.6"
 ---
 
 # Marketing Audience
@@ -35,6 +35,6 @@ Reject unsupported demographic/behavioral certainty. Do not use sensitive or res
 
 Default effect is read-only. Any audience/customer mutation or communication belongs to another authorized capability.
 
-## W3 compatible consumers
+## compatible consumers
 
-Marketing and Ads may consume this read-only research skill. Use the [consumer/source contract](references/W3-COMPATIBILITY.md) and its pre-retrieval evidence guard for scoped approved sources. Ads effects remain separate.
+Marketing and Ads may consume this read-only research skill. Use the [consumer/source contract](references/CONSUMER-COMPATIBILITY.md) and its pre-retrieval evidence guard for scoped approved sources. Ads effects remain separate.

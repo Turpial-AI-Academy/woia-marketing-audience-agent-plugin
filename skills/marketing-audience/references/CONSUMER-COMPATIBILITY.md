@@ -1,4 +1,4 @@
-# W3 consumer and source contract
+# consumer and source contract
 
 Marketing and Ads may consume the existing audience research/segmentation skill.
 Inputs are minimum scoped identity/customer/audience evidence references from an
@@ -17,6 +17,4 @@ authenticate callers, resolve sources, accept facts or enforce adapter access.
 An adapter must verify attestations against current authoritative resources before
 retrieval; this resource does not replace source qualification or Operator E2E.
 
-Canonical inputs: WOIA Real Estate docs/21, docs/22, docs/24 and docs/25 at
-`b716f1d1c0e2bc5ecf946043b337a2ddba4285f0`. Domain semantics remain owned by
-the Domain Contracts provider; no Real Estate schema is duplicated here.
+Domain semantics remain owned by the Domain Contracts provider; no Real Estate schema is duplicated here.
