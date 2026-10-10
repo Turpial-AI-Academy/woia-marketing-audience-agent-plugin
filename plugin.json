@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "woia-marketing-audience",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "description": "WOIA Marketing provider for audience research, evidence-backed segmentation, targeting assumptions, and authorized use of shared customer/lead references.",
   "author": {
     "name": "Turpial AI Academy",

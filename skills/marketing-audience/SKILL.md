@@ -4,7 +4,7 @@ description: Research, define, or review marketing audiences and segments using 
 license: MIT
 metadata:
   author: Turpial AI Academy
-  version: "0.5.7"
+  version: "0.5.8"
 ---
 
 # Marketing Audience

@@ -17,4 +17,4 @@ authenticate callers, resolve sources, accept facts or enforce adapter access.
 An adapter must verify attestations against current authoritative resources before
 retrieval; this resource does not replace source qualification or Operator E2E.
 
-Domain semantics remain owned by the Domain Contracts provider; no Real Estate schema is duplicated here.
+Domain semantics remain owned by the host-admitted domain contract provider. Consume its accepted versioned references without duplicating schemas or accepting business facts here.

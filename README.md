@@ -1,6 +1,6 @@
 # woia-marketing-audience
 
-WOIA Marketing v0.5.7 provider for `marketing.audience`.
+WOIA Marketing v0.5.8 provider for `marketing.audience`.
 
 - Primary skill: `$marketing-audience`
 - Authoring profile: thin
@@ -8,7 +8,7 @@ WOIA Marketing v0.5.7 provider for `marketing.audience`.
 
 Capability-owned tools/templates live in this plugin. Generic certification/release tooling lives in `woia-ecosystem`.
 
-The skill and template support scoped consumers. Marketing and Ads can use accepted scoped evidence from approved sources; Customer Data remains optional. No effects are executed. See skills/marketing-audience/references/CONSUMER-COMPATIBILITY.md. Generic thin certification is performed from Ecosystem v0.5.7; no local bootstrap/doctor/CI tasks exist in this thin baseline.
+The skill and template support scoped consumers. Marketing and Ads can use accepted scoped evidence from approved sources; Customer Data remains optional. No effects are executed. See [the consumer contract](skills/marketing-audience/references/CONSUMER-COMPATIBILITY.md). Run thin certification from canonical Ecosystem against the clean committed candidate; this provider has no local bootstrap, doctor or CI task.
 
 ## Maintenance
 
